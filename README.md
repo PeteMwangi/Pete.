@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pete and I'm a Data Analytics Specialist & IT Professional.</p>
+<p align="left">My name is Pete and I'm an aspiring Data Analyst.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently advancing my expertise in advanced SQL, data modeling, and Python for analytics.<br>🎯 Goals: Master data warehousing, build end-to-end analytics pipelines, and turn complex datasets into actionable business insights.</p>
+<p align="left">📚 I'm currently expanding my skills in SQL, Tableau, Excel, and Python.<br>🎯 Goals: Master data cleaning & modeling, build impactful dashboards, and turn raw data into actionable insights.</p>
 
 ###
 
@@ -23,9 +23,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-original.svg" height="40" alt="excel/data logo"  /> <!-- Optional placeholder style or standard icons -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
+
+###
+
+<p align="left">📊 I work with SQL, Tableau, Excel, and Python (junior level, currently learning and building projects!).</p>
